@@ -21,7 +21,7 @@ Unity를 활용하여 메타버스 환경을 설계하고, 상호작용 기능�
 
 ---
 
-## Immersive Metaverse and Future Technologies Course, (Fall 2023, Junior Year)
+## Immersive Metaverse and Future Technologies Course (Fall 2023, Junior Year)
 
 ### Project Overview
 A team project to design a metaverse environment using Unity, implementing interaction features and 3D modeling.  
