@@ -17,7 +17,9 @@ Unity를 활용하여 메타버스 환경을 설계하고, 상호작용 기능�
 ### 결과물
 - Unity와 Photoshop을 활용한 메타버스 구현의 전 과정을 경험  
 - 상호작용 요소와 3D 모델링, 디자인 자료를 융합한 작품 제작  
-- 팀원과 협업하여 효율적으로 프로젝트를 완료
+- 팀원과 협업하여 효율적으로 프로젝트를 완료  
+
+### [동영상](https://youtu.be/21RuLnMOQgQ)
 
 ---
 
@@ -40,6 +42,8 @@ The project was built into a playable environment for users to experience like a
 - Created a project that integrated interaction features, 3D modeling, and design materials  
 - Successfully completed the project through efficient teamwork and collaboration  
 
+### [Video](https://youtu.be/21RuLnMOQgQ)
+
 ---
 
 ## メタバース実現とビルドプロジェクト
@@ -60,3 +64,5 @@ Unityを活用してメタバース環境を設計し、インタラクション
 - UnityとPhotoshopを活用したメタバース構築の全工程を経験  
 - インタラクション要素、3Dモデリング、デザイン素材を融合した作品を制作  
 - チームメンバーと協力し、効率的にプロジェクトを完了  
+
+### [動画](https://youtu.be/21RuLnMOQgQ)
